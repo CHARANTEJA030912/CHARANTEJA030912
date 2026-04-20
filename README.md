@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I’m a  Software Engineer with a strong grip on Python, SQL, Frontend and backend systems.<br><br>Backend development (Flask, FastAPI, APIs, DB design)<br>Data analysis (Pandas, SQL, EDA, feature engineering)<br>Problem-solving with structured, scalable logic<br><br>I’ve built systems with role-based access, reporting pipelines, dashboards, and GenAI integrations, which reflects how I approach development — practical, structured, and outcome-driven.<br><br>Currently focused on:<br><br>Strengthening Data Engineering + Backend Systems<br>Applying AI/ML in real-world use cases, not just notebooks<br><br>If it involves data, logic, and real impact — I’m in.
 
 
